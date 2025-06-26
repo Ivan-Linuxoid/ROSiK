@@ -55,8 +55,7 @@ Nav2 — это система навигации для роботов, раз�
 Управления движением
 Nav2 включает в себя несколько ключевых компонентов:
 
-![4](https://github.com/user-attachments/assets/ce86936d-f205-4067-a82d-6ca173daae84)
-
+![4](https://github.com/user-attachments/assets/893ec2b3-8b3f-4688-b56d-ffb9641f2975)
 
 Сенсоры: для сбора данных об окружающей среде
 Алгоритмы локализации: для определения положения робота
@@ -80,8 +79,7 @@ https://github.com/user-attachments/assets/7ac4b358-6e9d-49da-b2c6-dd11fbe53735
 Run
 Copy code
 sudo apt update
-sudo apt install ros-<distro>-navigation2 ros-<distro>-nav2-bringup
-Замените <distro> на вашу версию ROS 2 (например, foxy).
+sudo apt install ros-<jazzy>-navigation2 ros-<jazzy>-nav2-bringup
 
 Собственно код:
 ```yaml
