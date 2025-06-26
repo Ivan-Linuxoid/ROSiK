@@ -68,8 +68,6 @@ Nav2 включает в себя несколько ключевых компо
 # 3.2. Установка Nav2
 После установки ROS 2 выполните следующие команды для установки Nav2:
 
-bash
-
 
 
 
@@ -77,12 +75,6 @@ bash
 https://github.com/user-attachments/assets/f5b9f0a8-69ac-433f-96a9-7718938ccde6
 
 
-
-
-Run
-Copy code
-sudo apt update
-sudo apt install ros-<jazzy>-navigation2 ros-<jazzy>-nav2-bringup
 
 Собственно код:
 ```yaml
